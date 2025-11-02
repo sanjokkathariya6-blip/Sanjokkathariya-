@@ -1,0 +1,62 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ████████╗ █████╗  ██████╗████████╗██╗ ██████╗ █████╗ ██╗                 ║
+║   ╚══██╔══╝██╔══██╗██╔════╝╚══██╔══╝██║██╔════╝██╔══██╗██║                 ║
+║      ██║   ███████║██║        ██║   ██║██║     ███████║██║                 ║
+║      ██║   ██╔══██║██║        ██║   ██║██║     ██╔══██║██║                 ║
+║      ██║   ██║  ██║╚██████╗   ██║   ██║╚██████╗██║  ██║███████╗            ║
+║      ╚═╝   ╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝            ║
+║                                                                              ║
+║   ███████╗██╗  ██╗ ██████╗  ██████╗ ████████╗███████╗██████╗               ║
+║   ██╔════╝██║  ██║██╔═══██╗██╔═══██╗╚══██╔══╝██╔════╝██╔══██╗              ║
+║   ███████╗███████║██║   ██║██║   ██║   ██║   █████╗  ██████╔╝              ║
+║   ╚════██║██╔══██║██║   ██║██║   ██║   ██║   ██╔══╝  ██╔══██╗              ║
+║   ███████║██║  ██║╚██████╔╝╚██████╔╝   ██║   ███████╗██║  ██║              ║
+║   ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝              ║
+║                                                                              ║
+║                        🎯 3D FPS MOBILE GAME 🎯                              ║
+║                                                                              ║
+║  ┌────────────────────────────────────────────────────────────────────────┐ ║
+║  │  Platform:  Android & iOS                                             │ ║
+║  │  Engine:    Three.js + WebGL                                          │ ║
+║  │  Framework: React Native + Expo                                       │ ║
+║  │  Language:  TypeScript                                                │ ║
+║  │  Version:   1.0.0                                                     │ ║
+║  └────────────────────────────────────────────────────────────────────────┘ ║
+║                                                                              ║
+║  ✨ FEATURES:                                                                ║
+║     • Realistic 3D Graphics with Dynamic Lighting                           ║
+║     • Immersive First-Person Shooter Mechanics                              ║
+║     • Touch-Optimized Controls (Joystick + Swipe + Fire)                    ║
+║     • 7 Strategic Targets with Precision Hit Detection                      ║
+║     • Professional HUD (Score, Ammo, Health, Crosshair)                     ║
+║     • Smooth Performance on Mobile Devices                                  ║
+║                                                                              ║
+║  🚀 QUICK START:                                                             ║
+║     1. npm start                                                             ║
+║     2. Install Expo Go on your phone                                         ║
+║     3. Scan QR code and play!                                                ║
+║                                                                              ║
+║  📚 DOCUMENTATION:                                                           ║
+║     • README.md         - Complete documentation                             ║
+║     • QUICK_START.md    - Fast setup guide                                   ║
+║     • GAME_DESIGN.md    - Design document                                    ║
+║     • FEATURES.md       - Features list                                      ║
+║     • PROJECT_SUMMARY.md - Project overview                                  ║
+║                                                                              ║
+║  🎮 CONTROLS:                                                                ║
+║     • Left Joystick  → Move                                                  ║
+║     • Right Swipe    → Look Around                                           ║
+║     • Fire Button    → Shoot                                                 ║
+║                                                                              ║
+║  🎯 OBJECTIVE:                                                               ║
+║     Hit all 7 targets to complete the mission!                               ║
+║     Each target = 100 points | Total ammo = 30 rounds                        ║
+║                                                                              ║
+║  ⚡ STATUS: READY TO PLAY! ✅                                                 ║
+║                                                                              ║
+║  Made with ❤️  using React Native, Expo, and Three.js                        ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+

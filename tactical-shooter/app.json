@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Tactical Shooter",
+    "slug": "tactical-shooter",
+    "version": "1.0.0",
+    "description": "3D FPS mobile game with realistic graphics and immersive gameplay",
+    "orientation": "landscape",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "bundleIdentifier": "com.tacticalshooter.game",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.tacticalshoooter.game",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

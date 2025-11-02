@@ -1,0 +1,41 @@
+{
+  "name": "tactical-shooter",
+  "version": "1.0.0",
+  "description": "A realistic 3D first-person shooter game for Android and iOS with immersive graphics and intuitive touch controls",
+  "main": "index.ts",
+  "keywords": [
+    "fps",
+    "shooter",
+    "3d-game",
+    "mobile-game",
+    "react-native",
+    "expo",
+    "threejs",
+    "webgl",
+    "android",
+    "ios"
+  ],
+  "author": "Tactical Shooter Team",
+  "license": "MIT",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@types/three": "^0.181.0",
+    "expo": "~54.0.20",
+    "expo-gl": "^16.0.7",
+    "expo-status-bar": "~3.0.8",
+    "expo-three": "^6.0.1",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "three": "^0.127.0"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.0",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}
